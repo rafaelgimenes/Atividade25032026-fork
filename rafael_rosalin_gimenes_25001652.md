@@ -162,7 +162,7 @@ Relacionamentos:
 Include: —  
 Extend: —  
 
-(DIAGRAMA AQUI)
+![Atividade UC02](docs/diagramas/uc02_atividade.png)
 
 ---
 
