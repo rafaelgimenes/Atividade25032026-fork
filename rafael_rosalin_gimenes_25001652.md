@@ -100,7 +100,7 @@ Extend:
 - Realizar venda estende Gerar conta a receber (se for a prazo)  
 - Realizar venda estende Validar receita (se necessário)  
 
-(INSERIR AQUI IMAGEM DO DIAGRAMA DE CASO DE USO)
+![Diagrama de Casos de Uso](docs/diagramas/casos_de_uso.png)
 
 ---
 
