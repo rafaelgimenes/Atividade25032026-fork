@@ -107,7 +107,7 @@ Extend:
 ## 6. Documentação dos Casos de Uso
 
 ### UC01 — Realizar venda
-Ator(es): Atendente  
+Ator: Atendente  
 
 Descrição: Processo de venda de produtos ao cliente.  
 
@@ -139,12 +139,12 @@ Relacionamentos:
 Include: Consultar produto, Verificar estoque  
 Extend: Cadastrar cliente, Gerar conta a receber  
 
-(DIAGRAMA DE ATIVIDADE AQUI)
+![Atividade UC01](docs/diagramas/uc01_atividade.png)
 
 ---
 
 ### UC02 — Consultar produto
-Ator(es): Atendente  
+Ator: Atendente  
 
 Descrição: Permite buscar produtos no sistema.  
 
@@ -167,7 +167,7 @@ Extend: —
 ---
 
 ### UC03 — Verificar estoque
-Ator(es): Sistema  
+Ator: Sistema  
 
 Descrição: Verifica quantidade disponível do produto.  
 
@@ -178,7 +178,7 @@ Fluxo Principal:
 ---
 
 ### UC04 — Cadastrar cliente
-Ator(es): Atendente  
+Ator: Atendente  
 
 Descrição: Cadastro de novo cliente.  
 
@@ -189,41 +189,41 @@ Fluxo Principal:
 ---
 
 ### UC05 — Registrar venda
-Ator(es): Sistema  
+Ator: Sistema  
 
 Descrição: Registra venda no sistema.  
 
 ---
 
 ### UC06 — Emitir comprovante
-Ator(es): Sistema  
+Ator: Sistema  
 
 Descrição: Gera comprovante da venda.  
 
 ---
 
 ### UC07 — Gerar conta a receber
-Ator(es): Sistema  
+Ator: Sistema  
 
 Descrição: Gera cobrança para venda a prazo.  
 
 ---
 
 ### UC08 — Validar receita
-Ator(es): Farmacêutico  
+Ator: Farmacêutico  
 
 Descrição: Valida medicamentos controlados.  
 
 ---
 
 ### UC09 — Identificar cliente
-Ator(es): Atendente  
+Ator: Atendente  
 
 Descrição: Localiza cliente no sistema.  
 
 ---
 
 ### UC10 — Cancelar venda
-Ator(es): Atendente  
+Ator: Atendente  
 
 Descrição: Cancela uma venda realizada.  
